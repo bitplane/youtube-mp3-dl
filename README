@@ -1,0 +1,9 @@
+So my dad got an MP3 player for Christmas, and he only ever
+listened to music on YouTube. But we didn't know that.
+
+Thankfully he runs Ubuntu. So I made these scripts for him
+to download and convert an URL to mp3 using youtube-dl
+
+todo: There's a script that gets the current tab from firefox
+and passes it to this one, setting the dl dir first. Need to
+get that into source control.
